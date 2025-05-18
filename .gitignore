@@ -1,0 +1,14 @@
+# Ignore virtual env
+venv/
+
+# VS Code settings
+.vscode/
+
+# Data and notebooks
+data/
+*.csv
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
